@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\bin\Debug\netstandard2.0\CharlsShoes.Entities.dll
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\obj\Debug\netstandard2.0\CharlsShoes.DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\obj\Debug\netstandard2.0\CharlsShoes.DAL.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\bin\Debug\netstandard2.0\CharlsShoes.DAL.deps.json
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\bin\Debug\netstandard2.0\CharlsShoes.DAL.dll
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\bin\Debug\netstandard2.0\CharlsShoes.DAL.pdb
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\bin\Debug\netstandard2.0\CharlsShoes.Entities.pdb
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\obj\Debug\netstandard2.0\CharlsShoes.DAL.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\obj\Debug\netstandard2.0\CharlsShoes.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\obj\Debug\netstandard2.0\CharlsShoes.DAL.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\obj\Debug\netstandard2.0\CharlsShoes.DAL.dll
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.DAL\obj\Debug\netstandard2.0\CharlsShoes.DAL.pdb
