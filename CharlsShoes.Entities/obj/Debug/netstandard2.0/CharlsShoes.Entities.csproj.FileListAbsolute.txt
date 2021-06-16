@@ -6,3 +6,4 @@ C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.Entities\obj\Debug\netstanda
 C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.Entities\obj\Debug\netstandard2.0\CharlsShoes.Entities.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.Entities\obj\Debug\netstandard2.0\CharlsShoes.Entities.dll
 C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.Entities\obj\Debug\netstandard2.0\CharlsShoes.Entities.pdb
+C:\Users\ADMIN\source\repos\CharlsShoes\CharlsShoes.Entities\obj\Debug\netstandard2.0\CharlsShoes.Entities.csprojAssemblyReference.cache
